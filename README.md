@@ -1,4 +1,6 @@
 # Organization workflows app
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthspinto%2Forganization-workflows.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthspinto%2Forganization-workflows?ref=badge_shield)
+
 
 This GitHub app allows you to run [GitHub Actions](https://github.com/features/actions) workflows across multiple repositories, which is [not yet natively supported](https://github.com/github/roadmap/issues/52). This app helps you - for example - to create a single workflow definition that is used for linting, compliance checks, and more.
 
@@ -182,3 +184,6 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 [ISC](LICENSE) © 2020 Sebass van Boxel <hello@svboxel.com>
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthspinto%2Forganization-workflows.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthspinto%2Forganization-workflows?ref=badge_large)
